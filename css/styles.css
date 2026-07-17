@@ -102,6 +102,61 @@ header{
 
 .mobile-menu{margin: 0 0 14px; padding: 10px}
 
+.trust-strip{
+  padding: 8px 0 40px;
+}
+.trust-label{
+  text-align:center;
+  color: var(--muted2);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  margin-bottom: 18px;
+}
+.logo-grid{
+  display:flex;
+  flex-wrap: wrap;
+  align-items:center;
+  justify-content:center;
+  gap: 14px;
+}
+.logo-item{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding: 14px 24px;
+  min-width: 160px;
+  min-height: 64px;
+  border:1px solid rgba(255,255,255,.10);
+  background: linear-gradient(180deg, rgba(255,255,255,.05), rgba(255,255,255,.02));
+  border-radius: 14px;
+  transition: transform .15s ease, border-color .2s ease, background .2s ease;
+}
+.logo-item:hover{
+  transform: translateY(-2px);
+  border-color: rgba(255,255,255,.22);
+  background: rgba(255,255,255,.06);
+}
+.logo-item img{
+  max-width: 130px;
+  max-height: 36px;
+  object-fit: contain;
+  filter: grayscale(1) brightness(1.6) contrast(0.9) opacity(0.85);
+  transition: filter .2s ease;
+}
+.logo-item:hover img{
+  filter: grayscale(0) brightness(1) opacity(1);
+}
+.logo-fallback{
+  display:none;
+  align-items:center;
+  color: var(--muted);
+  font-weight: 750;
+  font-size: 15px;
+  letter-spacing: .3px;
+}
+
 .hero{padding: 56px 0 26px}
 .hero-grid{
   display:grid;
