@@ -1,0 +1,21 @@
+# Crimealysis
+
+> Crimealysis provides threat intelligence for cryptocurrency/blockchain analytics companies, mobile network operators, and law enforcement agencies, focused on dark web and smishing threats.
+
+Crimealysis helps organisations detect, investigate, and disrupt cybercrime by turning dark web and smishing signals into actionable, evidence-ready intelligence. The company is registered in the United Kingdom (Companies House No. 15724545) and operates as a fully remote team.
+
+## Company
+
+- [Home](https://crimealysis.com/index.html): Overview of Crimealysis's threat intelligence solutions for crypto/blockchain analytics companies, mobile network operators, and law enforcement.
+- [Careers](https://crimealysis.com/careers.html): Information about working at Crimealysis, including our fully remote workplace policy.
+
+## Legal
+
+- [Privacy Policy](https://crimealysis.com/privacy-policy.html): How Crimealysis collects, uses, and protects personal data.
+- [Terms & Conditions](https://crimealysis.com/terms.html): Terms governing use of crimealysis.com.
+- [Cookie Policy](https://crimealysis.com/cookie-policy.html): How crimealysis.com uses cookies.
+
+## Notes
+
+- Crimealysis is a UK-registered company providing B2B threat intelligence services; it does not offer consumer products.
+- For enquiries, contact contact@crimealysis.com.
