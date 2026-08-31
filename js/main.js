@@ -74,7 +74,7 @@
                     let errText = "Something went wrong while sending. Please try again, or email us instead.";
                     try {
                         const data = await res.json();
-                        if (data ? .errors ? .length) {
+                        if (data?.errors?.length) {
                             errText = data.errors.map(e => e.message).join(" ");
                         }
                     } catch (_) {}

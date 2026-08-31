@@ -1,13 +1,18 @@
 # Crimealysis
 
-> Crimealysis provides threat intelligence for cryptocurrency/blockchain analytics companies, mobile network operators, and law enforcement agencies, focused on dark web and smishing threats.
+> Crimealysis is a cybercrime intelligence startup, built by a team with PhDs in cybercrime research, serving telco, banking, tech, and crypto companies, and law enforcement agencies worldwide.
 
-Crimealysis helps organisations detect, investigate, and disrupt cybercrime by turning dark web and smishing signals into actionable, evidence-ready intelligence. The company is registered in the United Kingdom (Companies House No. 15724545) and operates as a fully remote team.
+Crimealysis helps organisations across telecom, banking, technology, and cryptocurrency sectors, and law enforcement agencies globally, detect, investigate, and disrupt cybercrime. We monitor underground forums and the surface web to turn signals into actionable, evidence-ready intelligence, build the investigative products teams need — from call data analysis to open-source threat data — and offer research-backed consultancy grounded in our team's PhD-level cybercrime research. The company is registered in the United Kingdom (Companies House No. 15724545) and operates as a fully remote team.
 
 ## Company
 
-- [Home](https://crimealysis.com/index.html): Overview of Crimealysis's threat intelligence solutions for crypto/blockchain analytics companies, mobile network operators, and law enforcement.
+- [Home](https://crimealysis.com/index.html): Overview of Crimealysis's threat intelligence and investigation tooling for telco, banking, tech, and crypto companies, and law enforcement.
 - [Careers](https://crimealysis.com/careers.html): Information about working at Crimealysis, including our fully remote workplace policy.
+
+## Products
+
+- [CDR Analyser](https://github.com/Crimealysis/CDR-Analyzer): Cross-platform tool for analysing Call Detail Records — import from Excel, generate summary statistics, surface top contacts, resolve cell tower locations, and export to Excel and KML.
+- [Disposable Domains Collection](https://github.com/Crimealysis/Disposable-Domains-Collection): A curated, actively maintained list of disposable and throwaway email domains for OSINT, fraud detection, email validation, and digital forensics.
 
 ## Legal
 
@@ -17,5 +22,5 @@ Crimealysis helps organisations detect, investigate, and disrupt cybercrime by t
 
 ## Notes
 
-- Crimealysis is a UK-registered company providing B2B threat intelligence services; it does not offer consumer products.
+- Crimealysis is a UK-registered company providing B2B threat intelligence and investigation tooling; it does not offer consumer products.
 - For enquiries, contact contact@crimealysis.com.
